@@ -63,7 +63,7 @@
                             <input type="date" class="form-control shadow-none">
                         </div>
                         <div class="col-lg-3 mb-3">
-                            <label class="form-label" style="font-weight: 500;">Adult</label>
+                            <label class="form-label" style="font-weight: 500;">Audult</label>
                             <select class="form-select" aria-label="Default select example">
                                 <option value="1">One</option>
                                 <option value="2">Two</option>
@@ -93,7 +93,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-4 col-md-6 my-3">
-                <div class="card border-0 shadow" style="max-width: 350px; margin: auto;">
+                <div class="card border-0 shadow" style="max-width: 350px; margin: atuo;">
                     <img src="images/rooms/1.jpg" class="card-img-top">
                     <div class="card-body">
                         <h5>Simple Room Name</h5>
@@ -120,21 +120,6 @@
                             </span>
                             <span class="badge rounded-pill bg-light text-dark text-wrap lh-base">
                                 Television
-                            </span>
-                            <span class="badge rounded-pill bg-light text-dark text-wrap lh-base">
-                                AC
-                            </span>
-                            <span class="badge rounded-pill bg-light text-dark text-wrap lh-base">
-                                Room heater
-                            </span>
-                        </div>
-                        <div class="guests mb-4">
-                            <h6 class="mb-1">Guests</h6>
-                            <span class="badge rounded-pill bg-light text-dark text-wrap lh-base">
-                                5 Adult
-                            </span>
-                            <span class="badge rounded-pill bg-light text-dark text-wrap lh-base">
-                                4 Children
                             </span>
                             <span class="badge rounded-pill bg-light text-dark text-wrap lh-base">
                                 AC
@@ -197,21 +182,6 @@
                                 Room heater
                             </span>
                         </div>
-                        <div class="guests mb-4">
-                            <h6 class="mb-1">Guests</h6>
-                            <span class="badge rounded-pill bg-light text-dark text-wrap lh-base">
-                                5 Adult
-                            </span>
-                            <span class="badge rounded-pill bg-light text-dark text-wrap lh-base">
-                                4 Children
-                            </span>
-                            <span class="badge rounded-pill bg-light text-dark text-wrap lh-base">
-                                AC
-                            </span>
-                            <span class="badge rounded-pill bg-light text-dark text-wrap lh-base">
-                                Room heater
-                            </span>
-                        </div>
                         <div class="rating mb-4">
                             <h6 class="mb-1">Rating</h6>
                             <span class="badge rounded-pill bg-light">
@@ -258,21 +228,6 @@
                             </span>
                             <span class="badge rounded-pill bg-light text-dark text-wrap lh-base">
                                 Television
-                            </span>
-                            <span class="badge rounded-pill bg-light text-dark text-wrap lh-base">
-                                AC
-                            </span>
-                            <span class="badge rounded-pill bg-light text-dark text-wrap lh-base">
-                                Room heater
-                            </span>
-                        </div>
-                        <div class="guests mb-4">
-                            <h6 class="mb-1">Guests</h6>
-                            <span class="badge rounded-pill bg-light text-dark text-wrap lh-base">
-                                5 Adult
-                            </span>
-                            <span class="badge rounded-pill bg-light text-dark text-wrap lh-base">
-                                4 Children
                             </span>
                             <span class="badge rounded-pill bg-light text-dark text-wrap lh-base">
                                 AC
@@ -421,8 +376,8 @@
                         <i class="bi bi-telephone-fill"></i>+84398897449
                     </a>
                     <br>
-                    <a href="tel: +84902034008" class="d-inline-block text-decoration-none text-dark">
-                        <i class="bi bi-telephone-fill"></i>+84902034008
+                    <a href="tel: +84902034018" class="d-inline-block text-decoration-none text-dark">
+                        <i class="bi bi-telephone-fill"></i>+84902034018
                     </a>
                 </div>
                 <div class="bg-white p-4 rounded mb-4">

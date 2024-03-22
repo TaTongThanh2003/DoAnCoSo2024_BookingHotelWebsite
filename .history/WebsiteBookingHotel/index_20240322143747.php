@@ -63,7 +63,7 @@
                             <input type="date" class="form-control shadow-none">
                         </div>
                         <div class="col-lg-3 mb-3">
-                            <label class="form-label" style="font-weight: 500;">Adult</label>
+                            <label class="form-label" style="font-weight: 500;">Audult</label>
                             <select class="form-select" aria-label="Default select example">
                                 <option value="1">One</option>
                                 <option value="2">Two</option>

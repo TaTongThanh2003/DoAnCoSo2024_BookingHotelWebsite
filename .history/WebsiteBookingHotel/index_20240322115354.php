@@ -63,7 +63,7 @@
                             <input type="date" class="form-control shadow-none">
                         </div>
                         <div class="col-lg-3 mb-3">
-                            <label class="form-label" style="font-weight: 500;">Adult</label>
+                            <label class="form-label" style="font-weight: 500;">Audult</label>
                             <select class="form-select" aria-label="Default select example">
                                 <option value="1">One</option>
                                 <option value="2">Two</option>
@@ -421,8 +421,8 @@
                         <i class="bi bi-telephone-fill"></i>+84398897449
                     </a>
                     <br>
-                    <a href="tel: +84902034008" class="d-inline-block text-decoration-none text-dark">
-                        <i class="bi bi-telephone-fill"></i>+84902034008
+                    <a href="tel: +84902034018" class="d-inline-block text-decoration-none text-dark">
+                        <i class="bi bi-telephone-fill"></i>+84902034018
                     </a>
                 </div>
                 <div class="bg-white p-4 rounded mb-4">

@@ -46,7 +46,7 @@
                     voluptatem ad.</p>
             </div>
             <div class="col-lg-5 col-md-5 mb-4 order-lg-2 order-md-2 order-1">
-                <img src="images/about/images1.jpg" class="w-100">
+                <img src="images/about/about.jpg" class="w-100">
             </div>
         </div>
     </div>
@@ -81,27 +81,27 @@
                 <div class="swiper mySwiper">
                     <div class="swiper-wrapper mb-5">
                         <div class="swiper-slide bg-white text-center overflow-hidden rounded ">
-                            <img src="images/about/images2.jpg" class="w-100">
+                            <img src="images/about/images1.jpg" class="w-100">
                             <h5 class="mt-2">Random Name</h5>
                         </div>
                         <div class="swiper-slide bg-white text-center overflow-hidden rounded ">
-                            <img src="images/about/images2.jpg" class="w-100">
+                            <img src="images/about/IMG_17352.jpg" class="w-100">
                             <h5 class="mt-2">Random Name</h5>
                         </div>
                         <div class="swiper-slide bg-white text-center overflow-hidden rounded ">
-                            <img src="images/about/images2.jpg" class="w-100">
+                            <img src="images/about/IMG_17352.jpg" class="w-100">
                             <h5 class="mt-2">Random Name</h5>
                         </div>
                         <div class="swiper-slide bg-white text-center overflow-hidden rounded ">
-                            <img src="images/about/images2.jpg" class="w-100">
+                            <img src="images/about/IMG_17352.jpg" class="w-100">
                             <h5 class="mt-2">Random Name</h5>
                         </div>
                         <div class="swiper-slide bg-white text-center overflow-hidden rounded ">
-                            <img src="images/about/images2.jpg" class="w-100">
+                            <img src="images/about/IMG_17352.jpg" class="w-100">
                             <h5 class="mt-2">Random Name</h5>
                         </div>
                         <div class="swiper-slide bg-white text-center overflow-hidden rounded ">
-                            <img src="images/about/images2.jpg" class="w-100">
+                            <img src="images/about/IMG_17352.jpg" class="w-100">
                             <h5 class="mt-2">Random Name</h5>
                         </div>
                     </div>
